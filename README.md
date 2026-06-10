@@ -93,5 +93,6 @@ The project follows a modular architecture, with clear separation of concerns:
 <img width="1913" height="972" alt="image" src="https://github.com/user-attachments/assets/c3eb6054-7a2b-405a-996c-11955b79f1d0" />
 
 -   **Video**
- https://drive.google.com/file/d/1IwWZKqa-H1M_sBsiJvTEaAkTxalrY2e6/view?usp=sharing
+ https://1drv.ms/v/c/aa96445e6d9de9f2/IQAjAq1kjdbLTa_dWKevuPQBAZIwwAlTlobHsnT079uJnII?e=yGbLAy
+
 
