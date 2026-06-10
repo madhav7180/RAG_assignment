@@ -88,9 +88,11 @@ The project follows a modular architecture, with clear separation of concerns:
 
 ## Demo
 -   **Images:** 
-<img width="1126" height="908" alt="image" src="https://github.com/user-attachments/assets/98e90852-3b48-4ba8-b06e-1828c8423b9f" />
-<img width="1918" height="972" alt="image" src="C:\Users\madha\OneDrive\Pictures\Screenshots\Screenshot (43).png" />
-<img width="1913" height="972" alt="image" src="https://github.com/user-attachments/assets/c3eb6054-7a2b-405a-996c-11955b79f1d0" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/231ecade-f68f-4c57-b9d2-a6292afe9bc7" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/141360d9-b193-495a-8ff7-b62bb4af456c" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/72f39de4-272c-4e28-9799-adb7a09b1180" />
 
 -   **Video**
  https://1drv.ms/v/c/aa96445e6d9de9f2/IQAjAq1kjdbLTa_dWKevuPQBAZIwwAlTlobHsnT079uJnII?e=yGbLAy
